@@ -1,0 +1,13 @@
+/*DOCUMENTO CSS*/
+* {margin: 0px
+    padding: 0px; }
+
+body {}
+
+h1 { text-transform: uppercase; }
+h2 { }
+
+.cabecera { min-height: 80px;
+            padding-top: 16px;
+            text-align: center;
+            border}

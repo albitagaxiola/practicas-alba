@@ -1,0 +1,13 @@
+/*documentos css*/
+
+*{ margin: 0; }
+
+.cabecera{ width: 100%;
+        background-color: rgb(184, 136, 230);
+        padding: 16px 0px; }
+
+.bi-airplane-engines-fill { font-size: 17em;
+                            text-align: center;
+                             display:block;
+                             color: rgb(250, 185, 220);
+                             margin:auto; }
